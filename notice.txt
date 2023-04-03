@@ -1,0 +1,79 @@
+【移動時の操作説明】
+
+
+Z (Enter): 移動中コマンドを開きます
+矢印キー (WASD): 移動をします
+
+【コマンド選択時の操作説明】
+
+
+Z (Enter): 決定をします
+X (Esc) 前の画面に戻ります
+矢印キー (WASD): 移動をします
+
+【移動中コマンドの役割】
+
+
+はなす: 近くの人と会話します
+じゅもん: ありすが覚えているじゅもんを確認します
+つよさ: ありすのつよさを確認します
+どうぐ: ありすが持っているどうぐを確認します
+かいだん:近くの かいだんを使います (※ゲーム中に階段は登場しません)
+しらべる: 身の回りをしらべます
+とびら: 近くのとびらを開けます
+とる: 足元のものをとります
+
+【バトル中コマンドの役割】
+
+
+たたかう: 敵に対してこうげきします
+じゅもん: ありすが覚えているじゅもんを確認します
+にげる: 敵からにげだします (にげられないこともあります)
+どうぐ: ありすが持っているどうぐを確認します
+
+
+【注意事項】
+
+・起動に時間がかかることがあります。画面が暗い場合でも、そのままでお待ちください。
+・本Webゲームにセーブデータはありません。ブラウザをリロードした場合や、タブを閉じた場合に、データはセーブされません。
+
+【非推奨OS】
+
+下記OSは非推奨となります。 ・iOS 15.x 以下 ・iPad OS 15.x 以下
+
+【ライセンス表記】
+
+UniRx The MIT License (MIT) Copyright (c) 2018 Yoshifumi Kawai
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+""Software""), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions: The above copyright notice and this permission
+notice shall be included in all copies or substantial portions of the
+Software. THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+--------------------------------------
+UniTask The MIT License (MIT)
+Copyright (c) 2019 Yoshifumi Kawai / Cysharp, Inc. Permission is hereby
+granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files (the ""Software""), to deal in the
+Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions: The above
+copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED
+""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
+OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
